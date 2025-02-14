@@ -31,5 +31,5 @@ This dataset has SAT words.
 #### 5/ SAT Genre Dataset (sat_genre.csv)
 This dataset has 300 odd Genre.
 
-#### 6/ Test cases (semantic_eval_1000_word_genre.csv)
-This dataset has word and gener combinations based on semantic similarity.
+#### 6/ Test cases (semantic_eval_word_genre.csv)
+This dataset has 100 word and gener combinations based on semantic similarity.
