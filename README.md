@@ -18,13 +18,13 @@ Open notebook "Llama3_for_SAT_Prep_Prompt_Engineering.ipynb" and run the cells
 
 This repository has notebooks and artifacts I leveraged to master vacabulary for SAT. I have this code in the following website (URL) for students to master vacabulary. Here are come of the key notesbooks:
 
-#### 1/ Semantic Similarity.ipynb
+#### 1/ 01_test_cases_creation.ipynb
 This notebook showcases how I used semantic similarity to find the best suited word for a given genre to reduce hallucination. Semantic similarity is based on this paper: https://arxiv.org/pdf/2108.06130
 
-#### 2/ Llama3_for_SAT_Prep_Prompt_Engineering.ipynb
+#### 2/ 02_prompt_engineering.ipynb
 This notebook showcases various prompt engineering techniques I used.
 
-#### 3/ Llama3_for_SAT_Prep_Fine_Tuning.ipynb
+#### 3/ 03_post_processing.ipynb
 This notebook showcases how I went about fine-tuning Llama 3 Instruct model.
 
 #### 4/ SAT Word Dataset (sat_vocab.csv)
